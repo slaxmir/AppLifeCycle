@@ -1,0 +1,21 @@
+{
+    "AS_AppEvents_7713e4ce810b4f3892352257c35b5c81": {
+        "id": "AS_AppEvents_7713e4ce810b4f3892352257c35b5c81",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionPostAppInit",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___bcf42fce9a2241f081f0e741472e0bec",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setDynamicForm",
+            "display": "setDynamicForm",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

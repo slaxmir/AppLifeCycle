@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb738dcc7d404dba9672c57e71199188",
+    "_text_": "Exit",
+    "_top_": {
+        "type": "string",
+        "value": "158dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s87e30c1c74e45c0bf39348c8dee57f1",
+    "id": "btnExit",
+    "ide_onClick": "AS_Button_3a8b845b62bd4ba3b5835b5b8cb91dc4",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b45f7d7e6f4446d2abff1a13e2b34579",
+    "name": "kony.ui.Button",
+    "parent": "flexStart",
+    "pf": "frmStart",
+    "wType": "Button"
+}

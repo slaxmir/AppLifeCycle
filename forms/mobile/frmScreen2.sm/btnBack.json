@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "48dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb738dcc7d404dba9672c57e71199188",
+    "_text_": "Back Home",
+    "_top_": {
+        "type": "string",
+        "value": "67dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s87e30c1c74e45c0bf39348c8dee57f1",
+    "id": "btnBack",
+    "ide_onClick": "AS_Button_86dd0fda07cb48289b7557ef9cea835b",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ca7d7e61b5e1454e9037e4ae09485382",
+    "name": "kony.ui.Button",
+    "parent": "flexScreen1",
+    "pf": "frmScreen2",
+    "wType": "Button",
+    "zindex": 1
+}

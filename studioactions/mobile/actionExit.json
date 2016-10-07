@@ -1,0 +1,25 @@
+{
+    "AS_Button_3a8b845b62bd4ba3b5835b5b8cb91dc4": {
+        "id": "AS_Button_3a8b845b62bd4ba3b5835b5b8cb91dc4",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionExit",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStart",
+            "type": "forms",
+            "platform": null,
+            "KUID": "3431eb7403cb42b0b429ef5eba8a23b7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__99c8664bc1ec470c8d3a81ef09e5f69e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.application.exit();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "AS_Button_94356b2d8deb464396eaa4517c671b51": {
+        "id": "AS_Button_94356b2d8deb464396eaa4517c671b51",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionScreen2",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStart",
+            "type": "forms",
+            "platform": null,
+            "KUID": "3431eb7403cb42b0b429ef5eba8a23b7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fbd0069031d34bc1a500d54eb86f919a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.store.setItem(\"userPreference\", \"screenTwo\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
